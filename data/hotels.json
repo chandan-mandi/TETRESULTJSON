@@ -1,0 +1,5527 @@
+{
+  "Name": "TET Result ",
+  "CreationDate": "2023-2-9",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220246268",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "04-Nov-1989",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "ANUMITA DE's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220181223",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "12-Jun-1982",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "AMALENDU TUDU's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220018466",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "15-Oct-1999",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "AMBIKA DUTTA's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220236651",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "23-Aug-1999",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "ANANYA DUTTA's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220159628",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "27-Mar-1997",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "ANINDITA BISWAS's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220162250",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "25-Aug-1997",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "APURBA KUMAR GHOSH's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220552838",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "03-Jan-1998",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "BAGHAMBAR GORAIN's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220276315",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "29-Sep-1997",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "BANASHREE NANDI's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220247981",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "04-Mar-1999",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "BIKRAM PATAR's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220247981",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "04-Mar-1999",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "BIKRAM PATAR's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220068982",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "10-Apr-1995",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "BISWAJIT BAURI's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220580990",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "09-Mar-1985",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "CHAITALI ROY CHATTERJEE's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220251788",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "10-Sep-1999",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "CHANDRIMA DAS's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220151206",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "20-Jun-1998",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "DEBOLINA CHAKRABORTY's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220446502",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "27-Nov-1998",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "DHARITRI MAHATA's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220059851",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "01-Jan-2000",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "DIPSIKHA ROY's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220373259",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "23-Aug-1999",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "DIYA MAHATO's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220102254",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "02-Mar-2000",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "DOLAN ACHARJEE's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220107987",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "19-Apr-1998",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "GOURI KUNUI's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220431762",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "02-Sep-1986",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "GOUTAM SADHU's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220347745",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "20-May-1997",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "HASNATUL AZIZA FIRDAUSI's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220057042",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "01-Jun-1999",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "JAYANTA GHOSH's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220477617",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "16-Jan-1998",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "JAYASHREE TUDU's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220223769",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "23-Sep-1987",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "KABITA PRASAD's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220384427",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "12-Nov-1997",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "KALIPADA RANA's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220236838",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "30-Sep-1999",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "LAKSHMI DEY's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220118220",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "22-Jul-1991",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "MAHUYA MONDAL's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220206131",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "16-Nov-1999",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "MALLIKA PAN's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220490435",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "13-Mar-2001",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "MIR IFTIKAR ALI's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220229468",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "04-Jul-1997",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "MONJOREE GHOSAL's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220232230",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "11-Nov-1998",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "MOUMITA DUTTA's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220247237",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "03-Apr-2001",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "MOUSUMI PATAR's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220480661",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "07-Feb-1999",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "MOUSUMI ROM's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220578279",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "09-Oct-1992",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "NAMRATA ROY's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220149621",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "09-Jan-1996",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "NISHAT FARHIN's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220160403",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "11-Sep-2002",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "PAPAI MAJI's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220447033",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "20-Dec-1997",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "PARBATI SING's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220447033",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "20-Dec-1997",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "PARBATI SING's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220201214",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "06-Feb-1998",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "PAYEL MAJI's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220368700",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "09-Mar-1999",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "PAYEL MONDAL's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220046543",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "20-Feb-1992",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "PAYEL MUKHERJEE's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220178889",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "09-Jun-1999",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "PIYALI BIT's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220083978",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "10-Mar-1992",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "PRADIP DHANK's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220233956",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "05-Jun-1996",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "PRAKASH CHANDRA KAR's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220538894",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "17-Oct-1999",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "PUJA DANDAPAT's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220098496",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "17-Mar-1991",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "PUJA DAS's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220556746",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "05-Feb-1993",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "RIA CHAKRABORTY's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220605300",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "01-Aug-1998",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "RIMA PAL's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220544585",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "01-Aug-1999",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "RIMPA DEBNATH's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220291352",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "02-Dec-1997",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "RIMPA GHOSH's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220075111",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "03-Sep-1997",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "RIYA PAL's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220075301",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "23-Nov-1994",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "RUBITA PAL DE's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220023479",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "10-Apr-1998",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "RUPALI MAJI's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220023479",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "10-Apr-1998",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "RUPALI MAJI's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220436219",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "06-Apr-2000",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "SAHANAJ KHATUN's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220527103",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "28-Mar-1998",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "SAHANAJ YASMIN's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220611151",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "02-Jan-2000",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "SAMAPTI GHOSH's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220355696",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "06-Oct-1996",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "SARANI ROY's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220022581",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "05-Mar-1997",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "SATHI GHOSH's.png",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET220478233",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "16-Oct-1999",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "SAYANI DAS's.png",
+      "Value": "",
+      "Description": ""
+    }
+  ]
+  
+}

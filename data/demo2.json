@@ -1,0 +1,2210 @@
+[   
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET2",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "DOB",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "'s TET Result.png",
+      "Value": "",
+      "Description": ""
+    },  
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET2",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "DOB",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "'s TET Result.png",
+      "Value": "",
+      "Description": ""
+    },  
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET2",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "DOB",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "'s TET Result.png",
+      "Value": "",
+      "Description": ""
+    },  
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET2",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "DOB",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "'s TET Result.png",
+      "Value": "",
+      "Description": ""
+    },  
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET2",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "DOB",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "'s TET Result.png",
+      "Value": "",
+      "Description": ""
+    },  
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET2",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "DOB",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "'s TET Result.png",
+      "Value": "",
+      "Description": ""
+    },  
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET2",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "DOB",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "'s TET Result.png",
+      "Value": "",
+      "Description": ""
+    },  
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET2",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "DOB",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "'s TET Result.png",
+      "Value": "",
+      "Description": ""
+    },  
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET2",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "DOB",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "'s TET Result.png",
+      "Value": "",
+      "Description": ""
+    },  
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET2",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "DOB",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "'s TET Result.png",
+      "Value": "",
+      "Description": ""
+    },  
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET2",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "DOB",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "'s TET Result.png",
+      "Value": "",
+      "Description": ""
+    },  
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET2",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "DOB",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "'s TET Result.png",
+      "Value": "",
+      "Description": ""
+    },  
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET2",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "DOB",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "'s TET Result.png",
+      "Value": "",
+      "Description": ""
+    },  
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET2",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "DOB",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "'s TET Result.png",
+      "Value": "",
+      "Description": ""
+    },  
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET2",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "DOB",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "'s TET Result.png",
+      "Value": "",
+      "Description": ""
+    },  
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET2",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "DOB",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "'s TET Result.png",
+      "Value": "",
+      "Description": ""
+    },  
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET2",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "DOB",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "'s TET Result.png",
+      "Value": "",
+      "Description": ""
+    },  
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET2",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "DOB",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "'s TET Result.png",
+      "Value": "",
+      "Description": ""
+    },  
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET2",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "DOB",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "'s TET Result.png",
+      "Value": "",
+      "Description": ""
+    },  
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET2",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "DOB",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "'s TET Result.png",
+      "Value": "",
+      "Description": ""
+    },  
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET2",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "DOB",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "'s TET Result.png",
+      "Value": "",
+      "Description": ""
+    },  
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET2",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "DOB",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "'s TET Result.png",
+      "Value": "",
+      "Description": ""
+    },  
+    {
+      "Command": "open",
+      "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtRegistrationNo",
+      "Value": "",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtRegistrationNo",
+      "Value": "TET2",
+      "Targets": [
+        "id=txtRegistrationNo",
+        "name=txtRegistrationNo",
+        "xpath=//*[@id=\"txtRegistrationNo\"]",
+        "xpath=//input[@id='txtRegistrationNo']",
+        "xpath=//div/div/div/input",
+        "css=#txtRegistrationNo"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=txtDateOfBirth",
+      "Value": "",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtDateOfBirth",
+      "Value": "DOB",
+      "Targets": [
+        "id=txtDateOfBirth",
+        "name=txtDateOfBirth",
+        "xpath=//*[@id=\"txtDateOfBirth\"]",
+        "xpath=//input[@id='txtDateOfBirth']",
+        "xpath=//div[2]/div/div/input",
+        "css=#txtDateOfBirth"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]",
+        "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=btnSubmit",
+      "Value": "",
+      "Targets": [
+        "id=btnSubmit",
+        "xpath=//*[@id=\"btnSubmit\"]",
+        "xpath=//button[@id='btnSubmit']",
+        "xpath=//button",
+        "css=#btnSubmit"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "captureScreenshot",
+      "Target": "'s TET Result.png",
+      "Value": "",
+      "Description": ""
+    }, 
+  {
+    "Command": "open",
+    "Target": "https://www.wbbpeonline.com/dashboard/checkResult",
+    "Value": "",
+    "Description": ""
+  },
+  {
+    "Command": "click",
+    "Target": "id=txtRegistrationNo",
+    "Value": "",
+    "Targets": [
+      "id=txtRegistrationNo",
+      "name=txtRegistrationNo",
+      "xpath=//*[@id=\"txtRegistrationNo\"]",
+      "xpath=//input[@id='txtRegistrationNo']",
+      "xpath=//div/div/div/input",
+      "css=#txtRegistrationNo"
+    ],
+    "Description": ""
+  },
+  {
+    "Command": "type",
+    "Target": "id=txtRegistrationNo",
+    "Value": "TET2",
+    "Targets": [
+      "id=txtRegistrationNo",
+      "name=txtRegistrationNo",
+      "xpath=//*[@id=\"txtRegistrationNo\"]",
+      "xpath=//input[@id='txtRegistrationNo']",
+      "xpath=//div/div/div/input",
+      "css=#txtRegistrationNo"
+    ],
+    "Description": ""
+  },
+  {
+    "Command": "click",
+    "Target": "id=txtDateOfBirth",
+    "Value": "",
+    "Targets": [
+      "id=txtDateOfBirth",
+      "name=txtDateOfBirth",
+      "xpath=//*[@id=\"txtDateOfBirth\"]",
+      "xpath=//input[@id='txtDateOfBirth']",
+      "xpath=//div[2]/div/div/input",
+      "css=#txtDateOfBirth"
+    ],
+    "Description": ""
+  },
+  {
+    "Command": "type",
+    "Target": "id=txtDateOfBirth",
+    "Value": "DOB",
+    "Targets": [
+      "id=txtDateOfBirth",
+      "name=txtDateOfBirth",
+      "xpath=//*[@id=\"txtDateOfBirth\"]",
+      "xpath=//input[@id='txtDateOfBirth']",
+      "xpath=//div[2]/div/div/input",
+      "css=#txtDateOfBirth"
+    ],
+    "Description": ""
+  },
+  {
+    "Command": "click",
+    "Target": "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+    "Value": "",
+    "Targets": [
+      "xpath=//*[@id=\"divForm\"]/div[2]/div[2]",
+      "xpath=//div[2]/div[2]",
+      "css=#divForm > div.x_content.form-horizontal.form-label-left > div:nth-child(2)"
+    ],
+    "Description": ""
+  },
+  {
+    "Command": "clickAndWait",
+    "Target": "id=btnSubmit",
+    "Value": "",
+    "Targets": [
+      "id=btnSubmit",
+      "xpath=//*[@id=\"btnSubmit\"]",
+      "xpath=//button[@id='btnSubmit']",
+      "xpath=//button",
+      "css=#btnSubmit"
+    ],
+    "Description": ""
+  },
+  {
+    "Command": "captureScreenshot",
+    "Target": "'s TET Result.png",
+    "Value": "",
+    "Description": ""
+  }
+]
